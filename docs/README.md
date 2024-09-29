@@ -1,6 +1,6 @@
 # Proyecto Topacio
 
-<audio src="https://docs.topacio.trade/_media/1-TopacioProyect.mp3" preload="none" controls></audio>
+<audio src="https://docs.topacio.link/_media/1-TopacioProyect.mp3" preload="none" controls></audio>
 
 <!-- ejemplo para VueJs
  <div>
@@ -23,7 +23,7 @@ En TopacioTrade, estamos enfocados en crear una plataforma descentralizada que p
 
 Te invitamos a conocer más sobre TopacioTrade, a ser parte de nuestra comunidad y a ayudarnos a revolucionar el mundo financiero. Juntos, podemos lograr grandes cosas y crear un futuro mejor para todos. ¡Únete a nosotros en TopacioTrade y sé parte de la revolución crypto y descentralizado!
 
-<audio src="https://docs.topacio.trade/_media/2-TopacioProyect.mp3" preload="none" controls></audio>
+<audio src="https://docs.topacio.link/_media/2-TopacioProyect.mp3" preload="none" controls></audio>
 
 Imagina que tienes la oportunidad de ser parte de un proyecto en nacimiento que está llevando el trading a un nivel completamente nuevo. TopacioTrade es un proyecto descentralizado que está centrado en la automatización total del trading y, lo mejor de todo, combina todo el mundo web3 en una plataforma disruptiva y única.
 
@@ -62,11 +62,13 @@ La generación génesis de fragmentos es la colección inicial representada por 
 Los fragmentos de gemas NO ESTARÁN disponibles todo el tiempo para su minteo y crafting, puesto que en su etapa inicial se conseguirán exclusivamente en temporadas de eventos, los cuales se irán dando a conocer a los participantes interesados, todo por medio de whitelist inscribiendo sus billeteras de polygon. Esta será en principio la única forma para ingresar al proyecto de Topacio Trading.
 
 <p align="center" width="100%">
-  <img align="center" width="100%" src="https://docs.topacio.trade/_media/fragmentos.png">
+  <img align="center" width="100%" src="https://docs.topacio.link/_media/fragmentos.png">
 </p>
 
 
+
 <iframe width="560" height="315" style="margin: 20px 0%;" src="https://www.youtube.com/embed/QthXbOpS5AA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 # ¿Qué son las Subscripciones?
@@ -100,7 +102,7 @@ Dependiendo de la recompensa se pedirán un número de tickets determinados, ya 
 
 # Tokenomic
 
- <img src="https://docs.topacio.trade/_media/coin3D.png" style="max-width: 25%;">
+ <img src="https://docs.topacio.link/_media/coin3D.png" style="max-width: 25%;">
 
 </div>
 
@@ -110,7 +112,7 @@ Todo el ecosistema de Topacio contará con la siguiente distribución, regido po
 
 - 10% Equipo - Bloqueado a 18 meses. Transcurrido el periodo de Bloqueo max 20% cada 3 meses (equivalente 2% ).
 - 5% Plataforma del ecosistema Topacio, escalabilidad y Desarrollo.
-- 30% Módulo Staking Bloqueado - bobeda de Staking Dedicada APIS de rendimiento Anual y Flexible.
+- 30% Módulo Staking Bloqueado - bóveda de Staking Dedicada APIS de rendimiento Anual y Flexible.
 - 12% Framing.
 - 3% Ronda Semilla Bloqueado (12 meses).
 - 5% Venta Privada Bloqueado (12 meses).
@@ -190,7 +192,7 @@ Además, se busca diversificar al máximo la distribución de la venta privada o
 
 # Roadmap
 
- <img src="https://docs.topacio.trade/_media/roadmap.png" style="width: 100%;">
+ <img src="https://docs.topacio.link/_media/roadmap.png" style="width: 100%;">
 
 
 Desarrollo Proyecto a largo plazo y de utilidad en el mundo real
