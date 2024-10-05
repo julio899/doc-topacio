@@ -47,8 +47,8 @@ p.container-chart{
 }
 
 .app-nav a {        
-    color: #fff;
-    background-color: #00073f;
+    color: #fff!important;
+    background-color: #00073f!important;
     padding: 0.5em;
     border-radius: 7px;
     transition: all .3s;
